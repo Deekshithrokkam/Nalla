@@ -125,7 +125,7 @@ export default function ChatBot() {
               <p className="text-white font-semibold text-sm leading-tight">Nalla Assistant</p>
               <div className="flex items-center gap-1.5 mt-0.5">
                 <span className="w-1.5 h-1.5 rounded-full bg-green-400 animate-pulse flex-shrink-0" />
-                <p className="text-white/55 text-xs truncate">Online - Gemini 2.5 Flash</p>
+                <p className="text-white/55 text-xs truncate">Online</p>
               </div>
             </div>
             <button
